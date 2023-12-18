@@ -3,4 +3,4 @@ This project showcases a modern chair design implemented using HTML and CSS.
 
 ## Project Overview
 - Explore a modern chair design.
-- Developed with HTML and CSS.
+- Developed with HTML and CSS..
